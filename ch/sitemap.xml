@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/ch/</loc>
+    <loc>/ch/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="https://examplesite.com/ch/"
+                href="/ch/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/ch/categories/</loc>
+    <loc>/ch/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="https://examplesite.com/ch/categories/"
+                href="/ch/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/ch/tags/</loc>
+    <loc>/ch/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="https://examplesite.com/ch/tags/"
+                href="/ch/tags/"
                 />
   </url>
   
