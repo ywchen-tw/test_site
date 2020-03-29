@@ -4,6 +4,7 @@
   
   <url>
     <loc>/ch/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +14,260 @@
                 rel="alternate"
                 hreflang="ch"
                 href="/ch/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/simple-blog-post-8/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/simple-blog-post-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/simple-blog-post-8/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/simple-blog-post-8/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ch/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/introduction/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/introduction/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/introduction/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/simple-blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/simple-blog-post-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/simple-blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/simple-blog-post-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/simple-blog-post-3/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/simple-blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/simple-blog-post-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/simple-blog-post-4/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/simple-blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/simple-blog-post-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/simple-blog-post-5/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/simple-blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/simple-blog-post-5/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/simple-blog-post-6/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/simple-blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/simple-blog-post-6/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/blog/simple-blog-post-7/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/simple-blog-post-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/blog/simple-blog-post-7/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/introduction/simple-blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/introduction/simple-blog-post-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/introduction/simple-blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/introduction/simple-blog-post-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/simple-blog-post-3/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/simple-blog-post-4/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/simple-blog-post-5/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/simple-blog-post-6/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ch/introduction/simple-blog-post-7/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ch/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/author/"
                 />
   </url>
   
@@ -27,6 +282,34 @@
                 rel="alternate"
                 hreflang="ch"
                 href="/ch/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/author/john-doe/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/author/mark-dinn/"
                 />
   </url>
   
